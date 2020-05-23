@@ -1,0 +1,8 @@
+xs = points[:,0]
+
+ys = points[:,1]
+
+plt.scatter(xs,ys)
+Out[4]: <matplotlib.collections.PathCollection at 0x7f3ee6c17d68>
+
+plt.show()
